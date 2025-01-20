@@ -1,0 +1,2 @@
+# ghostty
+My Ghostty Setup
