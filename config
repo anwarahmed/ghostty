@@ -1,0 +1,7 @@
+font-family = MesloLGS Nerd Font Mono
+font-size = 14
+theme = Grape
+window-colorspace = "display-p3"
+background-opacity = 0.9
+background-blur-radius = 15
+quit-after-last-window-closed = true
