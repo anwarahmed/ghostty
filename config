@@ -15,7 +15,6 @@ config-file = ?"~/.config/omarchy/current/theme/ghostty.conf"
 
 # Font
 font-family = "LiterationMono Nerd Font Mono"
-font-style = Bold
 font-size = 11
 
 # Window
