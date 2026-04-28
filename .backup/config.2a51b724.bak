@@ -7,4 +7,3 @@ background-blur-radius = 15
 quit-after-last-window-closed = true
 font-thicken = true
 window-padding-balance = true
-macos-option-as-alt = true
